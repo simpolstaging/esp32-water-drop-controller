@@ -2,6 +2,9 @@
  * Water Drop Effect - WiFi Web Server Control (Simplified)
  * For The Wedding Singer - Fame Water Drop Recreation
  * 
+ * Copyright (c) 2026 SIMPOL Productions
+ * Licensed under the MIT License - see LICENSE file for details
+ * 
  * Hardware:
  * - ESP32 DUBEUYEW ESP-WROOM-32 (Type-C)
  * - 5V Relay Module (connected to GPIO 5)
