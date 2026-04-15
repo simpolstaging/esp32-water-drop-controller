@@ -22,10 +22,8 @@
 // ============================================
 // WIFI CREDENTIALS - CHANGE THESE!
 // ============================================
-// const char* ssid = "SKYFNKX9";      // Replace with your WiFi name
-// const char* password = "9uuS4nWuzWTiGx";  // Replace with your WiFi password
-const char* ssid = "SIMPOLStaging";      // Replace with your WiFi name
-const char* password = "SIMPOL2001";  // Replace with your WiFi password
+const char* ssid = "<wifi name>";      // Replace with your WiFi name
+const char* password = "<wifi password>";  // Replace with your WiFi password
 
 // mDNS hostname - access via http://waterdrop.local
 const char* mdnsName = "waterdrop";
